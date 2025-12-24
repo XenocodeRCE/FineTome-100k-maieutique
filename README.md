@@ -61,3 +61,5 @@ Les données sont structurées sous forme de liste de conversations. Chaque lign
 
 
 En suivant ce schéma, tu obtiendras un fichier `.jsonl` que tu pourras convertir en `.parquet` (comme sur le lien Hugging Face) pour fine-tuner un modèle Llama 3 ou Mistral qui, au lieu de coder en Python, t'aidera à accoucher de tes propres idées.
+
+https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Gemma3N_(4B)-Conversational.ipynb#scrollTo=vITh0KVJ10qX
